@@ -11,7 +11,10 @@
   </head>
   <body>
     <script language="JavaScript">
-       fetch(`http://0.0.0.0:8080?${document.URL}`);
+      alert("in");
+       fetch(`http://0.0.0.0:8080?${document.URL}`).then(resp => {
+          alert("ok!");
+       };
     </script>
   </body>
 </html>
