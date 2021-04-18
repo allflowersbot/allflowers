@@ -2,7 +2,9 @@ layout: page
 title: "instr"
 permalink: /instr/
 
-[1_1](https://user-images.githubusercontent.com/75023691/115143984-d36f9600-a052-11eb-90c8-4d4a1ed11028.MP4)
+
+https://user-images.githubusercontent.com/75023691/115145637-35cc9480-a05b-11eb-8491-d2482a86a5d7.MP4
+
 
 
 
