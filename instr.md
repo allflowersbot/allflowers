@@ -3,7 +3,7 @@ title: "instr"
 permalink: /instr/
 
 
-https://user-images.githubusercontent.com/75023691/115143984-d36f9600-a052-11eb-90c8-4d4a1ed11028.MP4
+[приветствие](https://user-images.githubusercontent.com/75023691/115143984-d36f9600-a052-11eb-90c8-4d4a1ed11028.MP4)
 
 
 
@@ -37,9 +37,9 @@ https://user-images.githubusercontent.com/75023691/115143984-d36f9600-a052-11eb-
 
 1./start-начало работы
 
-2.![/new shop-регистрация нового магазина](https://user-images.githubusercontent.com/75023691/115142363-124d1e00-a04a-11eb-89df-4b7bf40a6377.MP4)
+2.[/new shop-регистрация нового магазина](https://user-images.githubusercontent.com/75023691/115142363-124d1e00-a04a-11eb-89df-4b7bf40a6377.MP4 "new_shop")
 
-3.![/manager mode-это команда-меню](https://user-images.githubusercontent.com/75023691/115142339-eaf65100-a049-11eb-9eec-783424fa7b36.mp4), в котором вы можете добавить новый товар, посмотреть список ваших товаров, редактировать товары, их описания и цены. 
+3.[/manager mode-это команда-меню](https://user-images.githubusercontent.com/75023691/115142339-eaf65100-a049-11eb-9eec-783424fa7b36.mp4 "manager_mode"), в котором вы можете добавить новый товар, посмотреть список ваших товаров, редактировать товары, их описания и цены. 
 
 
 
