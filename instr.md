@@ -3,7 +3,8 @@ title: "instr"
 permalink: /instr/
 
 
-![1_1](https://user-images.githubusercontent.com/75023691/115143088-e92e8c80-a04d-11eb-8d2f-3d8176e4281e.MP4)
+https://user-images.githubusercontent.com/75023691/115143984-d36f9600-a052-11eb-90c8-4d4a1ed11028.MP4
+
 
 
 ###  Работайте с нами!
