@@ -3,7 +3,7 @@ title: "instr"
 permalink: /instr/
 
 
-https://user-images.githubusercontent.com/75023691/115145637-35cc9480-a05b-11eb-8491-d2482a86a5d7.MP4
+![](https://user-images.githubusercontent.com/75023691/115145637-35cc9480-a05b-11eb-8491-d2482a86a5d7.MP4)
 
 
 
