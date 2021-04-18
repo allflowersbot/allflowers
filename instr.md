@@ -1,4 +1,7 @@
-layout: page title: "instr" permalink: /instruction/
+layout: page
+title: "instr"
+permalink: /instr/
+
 https://user-images.githubusercontent.com/75023691/115142216-3eb46a80-a049-11eb-9e14-bafc1b8020e1.MP4
                                                        Работайте с нами!
 1. Аренда.
