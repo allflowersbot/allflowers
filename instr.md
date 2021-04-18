@@ -2,7 +2,10 @@ layout: page
 title: "instr"
 permalink: /instr/
 
-https://user-images.githubusercontent.com/75023691/115142216-3eb46a80-a049-11eb-9e14-bafc1b8020e1.MP4
+
+[vid](https://user-images.githubusercontent.com/75023691/115142724-f0549b00-a04b-11eb-84d0-c24d94e3e3cf.MP4)
+
+
                                                        Работайте с нами!
 1. Аренда.
 Продажи в нашем сервисе принесет вам еще один доход, который покроет ваши расходы
@@ -26,10 +29,6 @@ https://user-images.githubusercontent.com/75023691/115142216-3eb46a80-a049-11eb-
 Самое главное,это выгодные условия сотрудничества,в которые входит фиксированная комиссия-10% от стоимости букета.
 ![3 1](https://user-images.githubusercontent.com/75023691/115142248-6acfeb80-a049-11eb-8c82-f83c733866d2.jpeg)
 ![3 2](https://user-images.githubusercontent.com/75023691/115142255-702d3600-a049-11eb-8fe0-39bd02332438.jpeg)
-
-
-
-
 
 
 Команды для магазинов:
